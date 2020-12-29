@@ -146,6 +146,7 @@
     <ClCompile Include="CivaScript.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="Pngs\CivaScript.png" />
     <Image Include="Pngs\Great_JavaScript.jpg" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

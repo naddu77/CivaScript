@@ -23,5 +23,8 @@
     <Image Include="Pngs\Great_JavaScript.jpg">
       <Filter>리소스 파일</Filter>
     </Image>
+    <Image Include="Pngs\CivaScript.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
   </ItemGroup>
 </Project>
